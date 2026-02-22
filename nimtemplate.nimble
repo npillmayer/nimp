@@ -1,8 +1,8 @@
-version     = "0.0.0"
-author      = "Your name"
-description = "Description of your library"
+version     = "0.1.0"
+author      = "npi"
+description = "Nim port of arithmetic and spline packages"
 license     = "MIT"
 
 srcDir = "src"
 
-requires "nim >= 1.2.2"
+requires "nim >= 2.2.0"

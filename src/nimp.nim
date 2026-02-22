@@ -1,3 +1,5 @@
-## Public interface to you library.
+## Public interface for package nimp.
 
-import nimtemplate/common
+import nimp/common
+
+export common
